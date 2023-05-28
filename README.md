@@ -10,12 +10,12 @@ The film industry is a very dynamic domain driven by advances in technology,chan
 
 This project aims to provide insights for the Microsoft Corporation as they plan to create a new movie studio.By analyzing data and current trends in the film industry, we can provide valuable information to help guide their decision making process.Our goal is to help the head of the Microsoft's new movie studio to make data-driven decisions on what type of films to make.
 
-This project will invole analyzing data from successful movie studios and their strategies on creating successful films,analysis on the trends of some of the most popular movies to identify some of the reasons for their success and analysis on how the production budgets of movies may impact their total gross.Based on this analysis we will be able to provide actionable insights to help the head of Microsoft's new studio make informed decisions on what type of movies to produce.
+This project will invole analyzing data from successful movie studios and their strategies on creating successful films,analysis on the trends of some of the most popular movies to identify  the reasons for their success and analysis on how the production budgets of movies may impact their total gross.Based on this analysis we will be able to provide actionable insights to help the head of Microsoft's new studio make informed decisions on what type of movies to produce.
 
 
 ## The problem statement
 
-Microsoft Cooporation is planning to create a new movie studio and wants to determine which films to produce inorder to maximize their chance for success.In a highly competitive and rapidly evolving film industry,it is essential for the head of Microsoft's new film studio to have clear understanding of market trends and audience preferences inorder to make successful movies. To come to this understanding,an exploratory data analysis need to be carried out inorder to investigate the current trends and patterns in the film industry.The goal of this project is to use data analysis techniques inorder to come up with insights and recommendations on what type of films the Cooporation should make.This will involve comprehensive analysis on the box office peformance, genre trends and how different films have been received by the audience.By leveraging data-driven insights and a deep understanding of the film industry domain,we aim to provide actionable recommendations that will guide the head of Microsoft's new film studio in his efforts to create engaging and successful movies.
+Microsoft Cooporation is planning to create a new movie studio and wants to determine which films to produce inorder to maximize their chance for success.In a highly competitive and rapidly evolving film industry,it is essential for the head of Microsoft's new film studio to have clear understanding of market trends and audience preferences inorder to make successful movies. To come to this understanding,an exploratory data analysis needs to be carried out inorder to investigate the current trends and patterns in the film industry.The goal of this project is to use data analysis techniques inorder to come up with insights and recommendations on what type of films the Cooporation should make.This will involve comprehensive analysis on the box office peformance, genre trends and how different films have been received by the audience.By leveraging data-driven insights and a deep understanding of the film industry domain,we aim to provide actionable recommendations that will guide the head of Microsoft's new film studio in his efforts to create engaging and successful movies.
 
 
 ## The main objective
@@ -32,7 +32,7 @@ To come up with actionable insights and recommendations to help guide the head o
 
 ## Conclusions
 
--   Documentaries,drama,comedies are mass produced by a lot of studios.This might be because they do well in the box office.
+-   Documentaries and dramas are mass produced by a lot of studios.This might be because they do well in the box office.
 -   The popularity of a movie generally increase the audience engagement with the movie.This might mean more ticket sales in the box office.
 -   Some of most popular movies are generally action movies.This may imply that great stunt work, state-the-art special effects and realistic fighting scenes may generally increase the popularity of a movie.
 -   Spending a sizable amount of money on the production of a movie may generally increase the amount of money that the movie makes both domestically and internationally.
@@ -41,7 +41,7 @@ To come up with actionable insights and recommendations to help guide the head o
 ## Recommendations
 
 
--   **Consider producing documentaries,dramas and comedies**
+-   **Consider producing documentaries and dramas**
 Since these genres appear to be mass produced by other studios this might mean that they do well in the box office.It might be worthwhile to produce movies in these genres.
 
 -   **Focus on increasing the popularity of movies**
